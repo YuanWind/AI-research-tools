@@ -250,6 +250,7 @@
 * [MyScript Webdemo](https://webdemo.myscript.com/)：Math 模块可以将手写公式转为 LaTeX 代码；同时，Diagram 模块可以将手绘的框图转化为工整的框图。
 
 * [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html): 忘记某些字符用 LaTeX 怎么表示时，可以在这个网站上通过手写来查询。
+* [Latex 数学符号列表](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)：latex数学符号列表及代码对应。
 
 ### 截屏悬浮
 
