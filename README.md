@@ -262,6 +262,7 @@
 ### 表格转 LaTeX
 
 * [Excel2LaTeX](https://ctan.org/tex-archive/support/excel2latex)：用在 Excel 上的宏工具，能够将 Excel 表格转换为 LaTeX 代码，节省很多时间。能够满足大多数效果的转换，有些效果可能需要微调。
+* [表格生成器](https://www.tablesgenerator.com/)：在线可视化编辑表格，然后生成latex、html、markdown等源码。
 
 ### 模型绘图
 
