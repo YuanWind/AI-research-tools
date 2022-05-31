@@ -256,9 +256,7 @@
 
 写论文时经常会遇到需要参考多个文献或代码的情况，同时查看多个文件并频繁切换会非常麻烦。这里是别人推荐的两个能够将截图悬浮置顶的工具，并随时调整位置和大小，方便写作时参考。
 
-* [Snipaste](https://www.snipaste.com/)：【待尝试】有 Windows 和 Mac 版，暂时没有 Linux 版。
-
-* [Snappy](http://snappy-app.com/)：【待尝试】有 Mac 和 iPhone & iPad 版，暂时没有 Windows 版。
+* [Utools截图悬浮插件](https://u.tools/)：安装utools后在里边安装截图插件。
 
 ### 表格转 LaTeX
 
