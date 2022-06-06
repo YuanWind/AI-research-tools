@@ -167,6 +167,7 @@
 ### 实验记录
 
 * [fastnlp/fitlog](https://github.com/fastnlp/fitlog)：【待尝试】架构无关的实验记录工具，可以看[邱锡鹏老师在知乎写的介绍](https://www.zhihu.com/question/384519338/answer/1181186086)。
+* [wandb](https://zhuanlan.zhihu.com/p/145052684)：wandb，一个很好用的实验记录工具。
 
 ### 数据集查找
 
